@@ -1,8 +1,7 @@
 {
-  "lang": "soql",
+  "url": "https://github.com/aheber/tree-sitter-sfapex",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": "3597575a429766dd7ecce9f5bb97f6fec4419d5d",
   "location": "soql",
-  "url": "https://github.com/aheber/tree-sitter-sfapex"
+  "lang": "soql"
 }
